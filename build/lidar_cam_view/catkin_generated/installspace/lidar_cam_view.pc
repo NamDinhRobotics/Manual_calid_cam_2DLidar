@@ -1,0 +1,8 @@
+prefix=/home/dinhnamirl/Manual_calid_lidar_cam/install
+
+Name: lidar_cam_view
+Description: Description of lidar_cam_view
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dinhnamirl/Manual_calid_lidar_cam/install/lib 
+Requires: cv_bridge image_geometry image_transport roscpp rospy sensor_msgs std_msgs
